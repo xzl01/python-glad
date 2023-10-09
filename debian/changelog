@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-glad (0.1.27-1) unstable; urgency=medium
 
-  * Initial release
+  * Initial release (Closes: #909335)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Steffen Moeller <moeller@debian.org>  Mon, 17 Sep 2018 12:12:45 +0200
